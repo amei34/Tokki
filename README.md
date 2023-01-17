@@ -11,5 +11,11 @@
 <p> Designed by: Anna Mei, Jiayu Liang, Ashley Bernal </p>
 
 <hr>
-
+<h3> Links </h3>
 <a href="https://www.eccchicago.org/2022-showcase.html">Showcase link</a>
+
+<hr>
+
+<h3> Additional Information </h3>
+
+<p> Parts of app prototype are included in this repository</p>
